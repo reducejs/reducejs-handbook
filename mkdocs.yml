@@ -1,5 +1,8 @@
 site_name: Reduce
 site_description: 前端组件化打包方案
+repo_url: https://github.com/reducejs/reducejs-handbook/
+remote_branch: master
+remote_name: site
 pages:
   - Home: index.md
   - 快速入门:
