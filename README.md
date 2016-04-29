@@ -1,6 +1,8 @@
 # reducejs-handbook
 [Reduce][reduce-web-component]：组件打包工具。
 
+<http://reducejs.github.io/>的源码。
+
 ## 目录
 - 快速入门
   - Reduce是什么
