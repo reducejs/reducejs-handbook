@@ -1,0 +1,25 @@
+{
+  "name": "reducejs-handbook",
+  "version": "0.0.1",
+  "description": "reduce",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reducejs/reducejs-handbook.git"
+  },
+  "keywords": [
+    "reducejs"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reducejs/reducejs-handbook/issues"
+  },
+  "homepage": "https://github.com/reducejs/reducejs-handbook#readme"
+}
