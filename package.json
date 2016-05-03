@@ -1,6 +1,6 @@
 {
   "name": "reducejs-handbook",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "How to build modular applications with the tools provided by reducejs",
   "main": "README.md",
   "directories": {
