@@ -4,6 +4,7 @@
 <http://reducejs.github.io/>的源码。
 
 ## 目录
+- [前言](docs/index.md)
 - [快速入门](docs/quick-start)
 - [教程](docs/tutorials)
 - [API](docs/api)
