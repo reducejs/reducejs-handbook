@@ -1,3 +1,4 @@
+# Reduce
 > 这是[reducejs] **0.6.1** 的文档。
 
 > [reducejs-handbook]仓库的分支与[reducejs]各版本一一对应（master对应最新版），
@@ -6,10 +7,10 @@
 
 [reducejs]是一款组件静态资源打包工具，本文档从以下几方面对其进行说明：
 
-- **快速入门**： 介绍[reducejs]的基本使用方式。
-- **教程**：实例展示与原理说明。
-- **API**：接口、配置说明。
-- **指南**：相关问题的解决方案。
+- [快速入门](quick-start/README.md)： 介绍[reducejs]的基本使用方式。
+- [教程](tutorials/README.md)：实例展示与原理说明。
+- [API](api/README.md)：接口、配置说明。
+- [指南](guides/README.md)：相关问题的解决方案。
 
 
 [reducejs]: https://github.com/reducejs/reduce-web-component

@@ -3,6 +3,9 @@
   "title": "Reduce",
   "language": "zh",
   "plugins": ["edit-link", "prism", "-highlight", "github", "anker-enable"],
+  "structure": {
+    "readme": "INTRO.md"
+  },
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/reducejs/reduce-web-component/tree/master",
