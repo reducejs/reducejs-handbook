@@ -1,5 +1,5 @@
 # Reduce
-> 这是[reducejs] **0.6.1** 的文档。
+> [reducejs] **0.6.1** 的文档。
 
 > [reducejs-handbook]仓库的分支与[reducejs]各版本一一对应（master对应最新版），
 可以前往[这里][reducejs-handbook]选择分支查看其它版本说明。
