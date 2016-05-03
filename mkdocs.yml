@@ -25,6 +25,7 @@ pages:
     - CSS命名空间: guides/css-namespace.md
     - 自动拼图: guides/sprite.md
     - React项目: guides/react.md
+  - TODO: todo.md
 theme: readthedocs
 extra_css:
   - css/extra-readthedocs.css
