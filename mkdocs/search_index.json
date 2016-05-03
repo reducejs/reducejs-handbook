@@ -32,17 +32,22 @@
         }, 
         {
             "location": "/quick-start/getting-started/", 
-            "text": "Node.js\n\n\n\n\n\u914d\u7f6e\u6587\u4ef6\n\n\nGulp\n\n\n\n\n\u547d\u4ee4\u884c\n\n\n\n\n\u5f85\u5f00\u53d1", 
+            "text": "\u5b89\u88c5\n\n\n\u8981\u6c42Node.js\u7248\u672c4\u53ca\u4ee5\u4e0a\u3002\n\n\nnpm install --save-dev reduce-web-component\n\n\n\n\n\n\n\n\u547d\u4ee4\u884c\u5de5\u5177\u51fa\u6765\u540e\uff0c\u53ef\u9009\u62e9\u5168\u5c40\u5b89\u88c5\u3002\n\n\n\n\nNode.js\n\n\nvar reduce = require('reduce-web-component')\n\n// \u4f20\u5165\u914d\u7f6e\uff0c\u6216\u914d\u7f6e\u6587\u4ef6\u8def\u5f84\uff0c\u5f00\u59cb\u6253\u5305\nvar donePromise = reduce.bundle(config)\n\n// \u4f20\u5165\u914d\u7f6e\uff0c\u6216\u914d\u7f6e\u6587\u4ef6\u8def\u5f84\uff0c\u5f00\u59cb\u6253\u5305\n// \u5e76watch\u6587\u4ef6\u7684\u589e\u52a0\u3001\u4fee\u6539\u3001\u5220\u9664\nvar watchDonePromise = reduce.watch(config)\n\n\n\n\n\n\u66f4\u591a\u4fe1\u606f\uff1a\n\n\n\n\n\u914d\u7f6e\u8bf4\u660e\n\n\n\u63a5\u53e3\u8bf4\u660e\n\n\n\n\n\u547d\u4ee4\u884c\n\n\n\n\n\u547d\u4ee4\u884c\u914d\u7f6e", 
             "title": "\u57fa\u672c\u4f7f\u7528"
         }, 
         {
+            "location": "/quick-start/getting-started/#_1", 
+            "text": "\u8981\u6c42Node.js\u7248\u672c4\u53ca\u4ee5\u4e0a\u3002  npm install --save-dev reduce-web-component   \u547d\u4ee4\u884c\u5de5\u5177\u51fa\u6765\u540e\uff0c\u53ef\u9009\u62e9\u5168\u5c40\u5b89\u88c5\u3002", 
+            "title": "\u5b89\u88c5"
+        }, 
+        {
             "location": "/quick-start/getting-started/#nodejs", 
-            "text": "\u914d\u7f6e\u6587\u4ef6  Gulp", 
+            "text": "var reduce = require('reduce-web-component')\n\n// \u4f20\u5165\u914d\u7f6e\uff0c\u6216\u914d\u7f6e\u6587\u4ef6\u8def\u5f84\uff0c\u5f00\u59cb\u6253\u5305\nvar donePromise = reduce.bundle(config)\n\n// \u4f20\u5165\u914d\u7f6e\uff0c\u6216\u914d\u7f6e\u6587\u4ef6\u8def\u5f84\uff0c\u5f00\u59cb\u6253\u5305\n// \u5e76watch\u6587\u4ef6\u7684\u589e\u52a0\u3001\u4fee\u6539\u3001\u5220\u9664\nvar watchDonePromise = reduce.watch(config)  \u66f4\u591a\u4fe1\u606f\uff1a   \u914d\u7f6e\u8bf4\u660e  \u63a5\u53e3\u8bf4\u660e", 
             "title": "Node.js"
         }, 
         {
-            "location": "/quick-start/getting-started/#_1", 
-            "text": "\u5f85\u5f00\u53d1", 
+            "location": "/quick-start/getting-started/#_2", 
+            "text": "\u547d\u4ee4\u884c\u914d\u7f6e", 
             "title": "\u547d\u4ee4\u884c"
         }, 
         {

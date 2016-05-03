@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../../css/theme_extra.css" type="text/css" />
   <link rel="stylesheet" href="../../css/highlight.css">
+  <link href="../../css/extra-readthedocs.css" rel="stylesheet">
 
   
   <script>
@@ -74,10 +75,13 @@
         
             <ul>
             
+                <li class="toctree-l3"><a href="#_1">安装</a></li>
+                
+            
                 <li class="toctree-l3"><a href="#nodejs">Node.js</a></li>
                 
             
-                <li class="toctree-l3"><a href="#_1">命令行</a></li>
+                <li class="toctree-l3"><a href="#_2">命令行</a></li>
                 
             
             </ul>
@@ -243,15 +247,36 @@
           <div role="main">
             <div class="section">
               
-                <h2 id="nodejs">Node.js</h2>
+                <h2 id="_1">安装</h2>
+<p>要求Node.js版本4及以上。</p>
+<pre><code class="js">npm install --save-dev reduce-web-component
+
+</code></pre>
+
+<blockquote>
+<p>命令行工具出来后，可选择全局安装。</p>
+</blockquote>
+<h2 id="nodejs">Node.js</h2>
+<pre><code class="js">var reduce = require('reduce-web-component')
+
+// 传入配置，或配置文件路径，开始打包
+var donePromise = reduce.bundle(config)
+
+// 传入配置，或配置文件路径，开始打包
+// 并watch文件的增加、修改、删除
+var watchDonePromise = reduce.watch(config)
+
+</code></pre>
+
+<p>更多信息：</p>
 <ul>
-<li>配置文件</li>
-<li>Gulp</li>
+<li><a href="../../api/configure/">配置说明</a></li>
+<li><a href="../../api/nodejs/">接口说明</a></li>
 </ul>
-<h2 id="_1">命令行</h2>
-<ul>
-<li>待开发</li>
-</ul>
+<h2 id="_2">命令行</h2>
+<blockquote>
+<p>命令行配置</p>
+</blockquote>
               
             </div>
           </div>

@@ -3,8 +3,8 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,60 +12,14 @@
     
         
     <url>
-     <loc>None/quick-start/what-is-reduce/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//quick-start/what-is-reduce/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/quick-start/getting-started/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/tutorials/examples/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/tutorials/component/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/tutorials/how-to-bundle/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/tutorials/plugin/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/tutorials/transform/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/tutorials/postcss/</loc>
-     <lastmod>2016-04-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/tutorials/hot-module-replacement/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//quick-start/getting-started/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -74,20 +28,44 @@
     
         
     <url>
-     <loc>None/api/configure/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/examples/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/api/commond-line/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/component/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/api/nodejs/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/how-to-bundle/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/plugin/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/transform/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/postcss/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//tutorials/hot-module-replacement/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -96,20 +74,42 @@
     
         
     <url>
-     <loc>None/guides/css-namespace/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//api/configure/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/guides/sprite/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//api/commond-line/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/guides/react/</loc>
-     <lastmod>2016-04-29</lastmod>
+     <loc>https://github.com/reducejs/reduce-web-component//api/nodejs/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//guides/css-namespace/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//guides/sprite/</loc>
+     <lastmod>2016-05-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://github.com/reducejs/reduce-web-component//guides/react/</loc>
+     <lastmod>2016-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
