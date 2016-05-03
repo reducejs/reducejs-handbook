@@ -4,25 +4,10 @@
 <http://reducejs.github.io/>的源码。
 
 ## 目录
-- 快速入门
-  - [Reduce是什么](quick-start/what-is-reduce.md)
-  - 基本使用
-- 教程
-  - 实例
-  - 组件规范
-  - 打包策略
-  - 插件
-  - Transform
-  - 定制PostCSS
-  - 热替换
-- API
-  - 配置
-  - 命令行
-  - Node.js
-- 指南
-  - CSS命名空间
-  - 自动拼图
-  - React项目
+- [快速入门](docs/quick-start)
+- [教程](docs/tutorials)
+- [API](docs/api)
+- [指南](docs/guides)
 
 ## 开发流程
 如果改动较多，需要预览，请先安装[mkdocs]，然后使用`mkdocs serve`即可本地预览。

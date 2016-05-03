@@ -4,7 +4,6 @@ site_url: https://github.com/reducejs/reduce-web-component/
 repo_url: https://github.com/reducejs/reducejs-handbook/
 remote_branch: master
 remote_name: site
-docs_dir: '.'
 pages:
   - Home: index.md
   - 快速入门:
