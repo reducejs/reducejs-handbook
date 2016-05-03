@@ -1,5 +1,6 @@
 site_name: Reduce
 site_description: 前端组件化打包方案
+site_url: https://github.com/reducejs/reduce-web-component/
 repo_url: https://github.com/reducejs/reducejs-handbook/
 remote_branch: master
 remote_name: site
@@ -25,4 +26,6 @@ pages:
     - 自动拼图: guides/sprite.md
     - React项目: guides/react.md
 theme: readthedocs
+extra_css:
+  - css/extra-readthedocs.css
 #theme_dir: 'themes'
