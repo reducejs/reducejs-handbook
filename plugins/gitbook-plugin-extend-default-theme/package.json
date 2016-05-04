@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-plugin-extend-default-theme",
+  "version": "0.1.1",
+  "description": "extend the default gitbook theme",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=2.4.0"
+  },
+  "keywords": [
+    "gitbook",
+    "theme"
+  ],
+  "author": "zoubin",
+  "license": "MIT"
+}
