@@ -7,7 +7,12 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "del _book",
+    "docs:install": "gitbook install",
+    "build": "gitbook build -g reducejs/reducejs.github.io",
+    "serve": "gitbook serve",
+    "dist": "npm run clean && npm run build && cp CNAME _book && cd _book && git init && git add . && git commit -am 'update book' && git push git@github.com:reducejs/reducejs.github.io --force",
+    "docs:dist": "npm run docs:install && npm run dist"
   },
   "repository": {
     "type": "git",
@@ -21,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/reducejs/reducejs-handbook/issues"
   },
-  "homepage": "https://github.com/reducejs/reducejs-handbook#readme"
+  "homepage": "https://github.com/reducejs/reducejs-handbook#readme",
+  "devDependencies": {
+    "del-cli": "^0.2.0",
+    "gitbook-cli": "^2.1.3"
+  }
 }
