@@ -11,7 +11,7 @@
     "docs:install": "gitbook install",
     "build": "gitbook build -g reducejs/reducejs.github.io",
     "serve": "gitbook serve",
-    "dist": "npm run clean && npm run build && cp CNAME _book && cd _book && git init && git add . && git commit -am 'update book' && git push git@github.com:reducejs/reducejs.github.io --force",
+    "dist": "npm run clean && npm run build && cp CNAME _book && cd _book && git init && git add . && git commit -am 'update book' && git push git@github.com:reducejs/reducejs.github.io master --force",
     "docs:dist": "npm run docs:install && npm run dist"
   },
   "repository": {

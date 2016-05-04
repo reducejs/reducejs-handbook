@@ -1,16 +1,15 @@
 # Reduce
-> To see the documentation for a specific version of [Reduce],
-go to the [repository] and switch to the branch with the same name.
+> 如果想查看[Reduce]某个版本的文档，请前往[仓库]切换到同名分支。
 
-[Reduce] is a tool to generate web assets from components.
+[Reduce] 是以组件为输入，生成web静态资源的工具。
 
-Contents:
-- [Quick start](quick-start/README.md): what is [Reduce] and how to use it
-- [Tutorials](tutorials/README.md): how does [Reduce] work and some examples
-- [API](api/README.md)：description for API
-- [Guides](guides/README.md)：useful resolutions to some related cases
+## 目录
+- [快速入门](quick-start/README.md): [Reduce]是什么，怎么用
+- [教程](tutorials/README.md): [Reduce]的工作原理和一些实例
+- [API](api/README.md)：API描述
+- [指南](guides/README.md)：相关场景下的解决方案
 
 
 [Reduce]: https://github.com/reducejs/reduce-web-component
-[repository]: https://github.com/reducejs/reducejs-handbook
+[仓库]: https://github.com/reducejs/reducejs-handbook
 
