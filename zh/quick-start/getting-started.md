@@ -1,14 +1,12 @@
-## 安装
-要求Node.js版本4及以上。
+## 环境要求
+Node.js版本4及以上。
 
-```js
+## Node.js
+```bash
 npm install --save-dev reduce-web-component
 
 ```
 
-> 命令行工具出来后，可选择全局安装。
-
-## Node.js
 ```js
 var reduce = require('reduce-web-component')
 
@@ -27,5 +25,10 @@ var watchDonePromise = reduce.watch(config)
 * [接口说明](/api/nodejs/)
 
 ## 命令行
-> 命令行配置
+
+```bash
+npm install reduce-web-component -g
+reduce -h
+
+```
 

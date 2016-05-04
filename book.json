@@ -1,0 +1,14 @@
+{
+  "gitbook": "2.x.x",
+  "title": "Reduce",
+  "plugins": ["edit-link", "prism", "-highlight", "github", "anker-enable"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/reducejs/reducejs-handbook/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/reducejs/reduce-web-component/"
+    }
+  }
+}
