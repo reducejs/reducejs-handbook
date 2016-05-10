@@ -1,3 +1,26 @@
 .book-body {
-  font-family: "Times New Roman", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+}
+
+.note {
+  border: .5em;
+  border-left-style: solid;
+  page-break-inside: avoid;
+
+  margin: 1em auto;
+
+  border-color: #52E052;
+  background: #E9FBE9;
+  overflow: auto;
+
+  padding: 0.5em 2em;
+}
+
+.note::before {
+  content: 'Note';
+  font-weight: bolder;
+
+  text-transform: uppercase;
+  display: block;
+  color: hsl(120, 70%, 30%);
 }

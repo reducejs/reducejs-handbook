@@ -3,11 +3,8 @@
   "title": "Reduce",
   "plugins": [
     "edit-link",
-    "prism",
-    "-highlight",
     "github",
     "anker-enable",
-    "-fontsettings",
     "extend-default-theme"
   ],
   "pluginsConfig": {

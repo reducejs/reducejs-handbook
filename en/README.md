@@ -8,7 +8,7 @@ Contents:
 - [Quick start](quick-start/README.md): what is [Reduce] and how to use it
 - [Tutorials](tutorials/README.md): how does [Reduce] work and some examples
 - [API](api/README.md)：description for API
-- [Guides](guides/README.md)：useful resolutions to some related cases
+- [Recipes](recipes/README.md)：useful resolutions to some related cases
 
 
 [Reduce]: https://github.com/reducejs/reduce-web-component

@@ -7,7 +7,7 @@
 - [快速入门](quick-start/README.md): [Reduce]是什么，怎么用
 - [教程](tutorials/README.md): [Reduce]的工作原理和一些实例
 - [API](api/README.md)：API描述
-- [指南](guides/README.md)：相关场景下的解决方案
+- [Recipes](recipes/README.md)：相关场景下的解决方案
 
 
 [Reduce]: https://github.com/reducejs/reduce-web-component
