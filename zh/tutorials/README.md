@@ -5,5 +5,5 @@
 - [打包策略](how-to-bundle.md)
 - [插件](plugin.md)
 - [Transform](transform.md)
-- [定制PostCSS](postcss.md)
+- [PostCSS](postcss.md)
 - [热替换](hot-module-replacement.md)

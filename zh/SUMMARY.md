@@ -9,7 +9,7 @@
   - [打包策略](tutorials/how-to-bundle.md)
   - [插件机制](tutorials/plugin.md)
   - [Transform](tutorials/transform.md)
-  - [定制PostCSS](tutorials/postcss.md)
+  - [PostCSS](tutorials/postcss.md)
   - [模块热替换](tutorials/hot-module-replacement.md)
 - [API](api/README.md)
   - [Node.js](api/nodejs.md)
