@@ -5,6 +5,7 @@ Reduce使用[browserify]处理JS，[depsify]处理CSS，两者都通过创建基
 其中`deps`便是依赖解析的阶段，也是Transform起作用的阶段：
 每当读取一个模块内容后，先经过Transform的变换，再进行语法解析。
 因此，预处理主要是通过Transform来实现。譬如[babelify]。
+更多Transform请见[这里](https://github.com/substack/node-browserify/wiki/list-of-transforms)。
 
 ## 如何写Transform
 所有Transform都是有如下声明的函数：
@@ -22,6 +23,7 @@ function myTransform(file, opts) {
 
 ## 关于Stream的参考文献
 * [官方文档][Node.js stream]
+* [substack/stream-handbook](https://github.com/substack/stream-handbook)
 * [Node.js Stream - 基础篇](http://fe.meituan.com/stream-basics.html)
 * [Node.js Stream - 进阶篇](http://fe.meituan.com/stream-internals.html)
 * [Node.js Stream - 实战篇](http://fe.meituan.com/stream-in-action.html)
